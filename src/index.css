@@ -1,0 +1,155 @@
+
+/* .card {
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 300px;
+  display: inline-block; 
+}
+
+.card-img {
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.card-title {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: hsl(0, 0%, 20%);
+}
+
+.card-text {
+  font-family: Arial, sans-serif;
+  color: hsl(0, 0%, 30%);
+} */
+
+/* external */
+/* .button {
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+/* .student {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+}
+
+.student p {
+  margin: 0;
+} */
+
+/* .welcome-message {
+  font-size: 2.5rem;
+  background-color: hsl(120, 100%, 42%);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+
+.login-promt {
+  font-size: 2.5rem;
+  background-color: hsl(0, 100%, 42%);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+} */
+
+/* .list-cat {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: hsl(0, 0%, 20%);
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: hsl(185, 100%, 50%);
+}
+
+.list-item li {
+  font-size: 2em;
+  list-style: none;
+  color: hsl(0, 0%, 25%);
+  text-align: center;
+  margin: 0;
+}
+
+.list-item li:hover {
+  color: hsl(0, 0%, 45%);
+  cursor: pointer;
+} */
+
+/* .counter-container {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.count-display {
+  font-size: 10rem;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.counter-button {
+  width: 150px;
+  height: 50px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0px 5px;
+  background-color: hsl(197, 100%, 50%);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.counter-button:hover {
+  background-color: hsl(197, 100%, 40%);
+} */
+/* 
+
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG40yEkLnoGEHzVLeyPDC1eQ_RtYC3GIgP-w&s');
+  background-size: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  min-width: 100vh;
+  align-items: center;
+}
+
+.clock-container {
+  backdrop-filter: blur(5px);
+  width: 100%;
+  padding: 10px 0;
+} 
+
+.clock {
+  color: white;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 3px 3px 5px hsla(0, 0%, 0%, 0.75);
+} */
+
+.box {
+  border: 3px solid;
+  padding: 25px;
+}
