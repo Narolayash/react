@@ -20,12 +20,19 @@ import MyComponent7 from "./MyComponent7";
 import DigitalClock from "./DigitalClock";
 import ComponentA from "./ComponentA";
 import MyComponent8 from "./MyComponent8";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Game from "./tic-tac-toe/Game";
 
 function App() {
+
   return (
     <>
-      <MyComponent8 />
-      </>
+      <BrowserRouter>
+        <Routes>
+          <Route path='tic-tac-toe' element={<Game />} />
+        </Routes>
+      </BrowserRouter>
+    </>
   )
 }
 
